@@ -1,0 +1,8 @@
+version: "2"
+services:
+
+  shell:
+    image: eduardoshanahan/registry:latest
+    container_name: es_registry
+    entrypoint:
+      - /bin/sh
