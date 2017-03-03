@@ -1,9 +1,9 @@
-# Docker image with  Alpine
+# Docker Images Registry
 
 ## Running an interactive session
 
 ```bash
-docker run -it --rm eduardoshanahan/alpine
+docker run -it --rm eduardoshanahan/registry
 ```
 
 Or with Docker Compose
